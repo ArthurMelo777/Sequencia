@@ -1,0 +1,15 @@
+C:\Users\20221014040003\Desktop\Sequencia\bin\Debug\net7.0\sequencia.exe
+C:\Users\20221014040003\Desktop\Sequencia\bin\Debug\net7.0\sequencia.deps.json
+C:\Users\20221014040003\Desktop\Sequencia\bin\Debug\net7.0\sequencia.runtimeconfig.json
+C:\Users\20221014040003\Desktop\Sequencia\bin\Debug\net7.0\sequencia.dll
+C:\Users\20221014040003\Desktop\Sequencia\bin\Debug\net7.0\sequencia.pdb
+C:\Users\20221014040003\Desktop\Sequencia\obj\Debug\net7.0\sequencia.csproj.AssemblyReference.cache
+C:\Users\20221014040003\Desktop\Sequencia\obj\Debug\net7.0\sequencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\20221014040003\Desktop\Sequencia\obj\Debug\net7.0\sequencia.AssemblyInfoInputs.cache
+C:\Users\20221014040003\Desktop\Sequencia\obj\Debug\net7.0\sequencia.AssemblyInfo.cs
+C:\Users\20221014040003\Desktop\Sequencia\obj\Debug\net7.0\sequencia.csproj.CoreCompileInputs.cache
+C:\Users\20221014040003\Desktop\Sequencia\obj\Debug\net7.0\sequencia.dll
+C:\Users\20221014040003\Desktop\Sequencia\obj\Debug\net7.0\refint\sequencia.dll
+C:\Users\20221014040003\Desktop\Sequencia\obj\Debug\net7.0\sequencia.pdb
+C:\Users\20221014040003\Desktop\Sequencia\obj\Debug\net7.0\sequencia.genruntimeconfig.cache
+C:\Users\20221014040003\Desktop\Sequencia\obj\Debug\net7.0\ref\sequencia.dll
